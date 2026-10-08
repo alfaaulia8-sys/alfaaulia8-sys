@@ -1,0 +1,19 @@
+Order ID,Customer,City,Order Date ISO,Email,Amount IDR
+ORD-001,PT Sinar Terang,Jakarta,2026-09-01,client1@example.test,120000
+ORD-002,CV Maju Jaya,Bandung,2026-09-02,client3@example.test,185000
+ORD-003,Toko Melati,Malang,2026-09-03,client4@example.test,95000
+ORD-004,Nusa Retail,Surabaya,2026-09-04,client6@example.test,215000
+ORD-005,Bintang Abadi,Semarang,2026-09-05,client7@example.test,310000
+ORD-006,Surya Foods,Yogyakarta,2026-09-06,client9@example.test,160000
+ORD-007,Lestari Mart,Solo,2026-09-07,client10@example.test,90000
+ORD-008,Kopi Pagi,Malang,2026-09-08,client12@example.test,125000
+ORD-009,Bumi Kreatif,Jakarta,2026-09-09,client13@example.test,260000
+ORD-010,Jaya Elektrik,Bogor,2026-09-10,client14@example.test,250000
+ORD-011,Mitra Karya,Bandung,2026-09-11,client15@example.test,180000
+ORD-012,Langit Biru,Denpasar,2026-09-12,client16@example.test,300000
+ORD-013,Sentosa Makmur,Surabaya,2026-09-13,client17@example.test,140000
+ORD-014,Tunas Baru,Tangerang,2026-09-14,client18@example.test,145000
+ORD-015,Berkah Utama,Bekasi,2026-09-15,client20@example.test,175000
+ORD-016,Puspa Store,Depok,2026-09-16,client21@example.test,110000
+ORD-017,Sinar Digital,Jakarta,2026-09-17,client22@example.test,225000
+ORD-018,Prima Teknik,Bandung,2026-09-18,client23@example.test,260000

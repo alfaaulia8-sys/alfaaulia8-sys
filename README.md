@@ -13,3 +13,9 @@ Remote builder focused on **MQL5/MT5 automation, Python-AI integration, testing,
 
 - [Proof-of-Antiquity technical article](https://alfaaulia8-sys.github.io/rustchain-proof-of-antiquity/)
 - [RustChain](https://github.com/Scottcjn/Rustchain)
+
+## Available paid service
+
+- **[10 Instagram content ideas and captions for Indonesian small businesses](https://projects.co.id/public/browse_services/view/90c513/10-ide-konten-dan-caption-instagram-untuk-umkm)** — Rp150,000 per brand, delivery in 2 days after receiving a complete brief and confirmed order. Includes a content plan and captions in an editable document/spreadsheet; one consolidated revision. AI assistance is disclosed and outputs are reviewed. All client communication and payment remain on Projects.co.id.
+
+*Published service listing, not a claim of completed client work or guaranteed earnings.*

@@ -34,3 +34,8 @@ Remote builder focused on **MQL5/MT5 automation, Python-AI integration, testing,
 - **[Read three technical writing samples](https://katarina-technical-writing.vercel.app/)** — Python data quality, review of LLM-generated code, and auditable PDF-to-Excel extraction.
 - Available for scoped technical articles, documentation, tutorials, and editing work. Writing samples are demonstration content, **not client contracts or paid testimonials**. No video production.
 
+
+## Contoh Carousel Edukasi SKD — Non-video
+
+- [Lihat demo carousel SKD 5 slide](https://katarina-skd-carousel.vercel.app/) — contoh mandiri interaktif, rujukan BKN, konten statis tanpa klaim nilai/kelulusan atau hubungan dengan lembaga/klien tertentu.
+- Demo ini hanya memperlihatkan kemampuan kerja dan **bukan** proyek berbayar yang sudah diterima klien.

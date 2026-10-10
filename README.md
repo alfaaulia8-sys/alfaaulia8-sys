@@ -28,3 +28,9 @@ Remote builder focused on **MQL5/MT5 automation, Python-AI integration, testing,
 - Jasa kustomisasi Excel, pembersihan data CSV, dashboard sederhana, dan otomasi bisnis berdasarkan brief serta kesepakatan harga. Semua layanan non-video.
 
 *Ini contoh fiktif untuk portofolio, bukan klaim kontrak klien atau pendapatan yang telah diterima.*
+
+## Technical Writing & Documentation (English)
+
+- **[Read three technical writing samples](https://katarina-technical-writing.vercel.app/)** — Python data quality, review of LLM-generated code, and auditable PDF-to-Excel extraction.
+- Available for scoped technical articles, documentation, tutorials, and editing work. Writing samples are demonstration content, **not client contracts or paid testimonials**. No video production.
+

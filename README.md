@@ -21,3 +21,10 @@ Remote builder focused on **MQL5/MT5 automation, Python-AI integration, testing,
 [Lihat contoh 10 ide konten dan caption (halaman web ramah HP)](https://katarina-konten-umkm.vercel.app/). Formats: photo posts and carousels; no video.
 
 *Published service listing and sample, not a claim of completed client work or guaranteed earnings.*
+
+## Excel HPP, Margin, dan Laporan UMKM
+
+- **[Coba kalkulator HPP dan unduh template Excel](https://katarina-excel-umkm.vercel.app/)** — demo publik tanpa login, contoh HPP, harga jual, laba, dan dashboard penjualan untuk bisnis kecil.
+- Jasa kustomisasi Excel, pembersihan data CSV, dashboard sederhana, dan otomasi bisnis berdasarkan brief serta kesepakatan harga. Semua layanan non-video.
+
+*Ini contoh fiktif untuk portofolio, bukan klaim kontrak klien atau pendapatan yang telah diterima.*
